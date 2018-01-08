@@ -1,2 +1,2 @@
 # Tweets
-Data science with my tweets
+Tweet analytics in Python
